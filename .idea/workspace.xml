@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d55ff80-58e3-4218-9f74-d70512741506" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/medical.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextAligner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/1a7c7c02-400d-44fc-9249-8170d19f4f7a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/281803eb-fa09-42c6-b104-7f77242b835e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/2f7e2606-ddd0-41d6-a944-621c93b78e10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/img_5808.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/img_5819.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/img_6320.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/img_6374.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/img_7594.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия 370eef3b-0cb1-4f97-a32c-4648addfb064.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия 41f389b4-a116-4492-ab41-514c2ad0c991.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия 435f240f-c3e6-4e35-95a4-e41455e7b57f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия 4756c4c1-d146-4b0c-9beb-b9a1aa1dc328.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия 4771e015-2417-4047-87e8-67b0712bf68e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия 5473fc2e-4e2e-4f63-8f5b-fa9d23bf1440.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия 8a79aff4-1243-4a84-b5b8-e03d1416ec34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия 9ecc63fb-dcf6-457b-bc60-589bb0aa11da.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия aa6d2007-828b-4cbe-a1a9-4f624163cda7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия d94c40a7-7ade-4749-9035-4272478cd79f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия d977f8b2-4519-4f23-aa9d-4abe15acd305.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия ee56e931-f1c8-46a5-85a8-b1fa5948bf2d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия img_3187.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия img_4980.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия img_5111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия img_5460.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия img_6186.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия img_6301.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия img_6303.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия img_6304.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия img_6306.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия img_6308.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия img_6310.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия img_6400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия img_6401.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия img_6402.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия img_6662.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия img_6663.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия img_7244.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия img_7278.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия img_7451.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия img_7663.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия img_8086.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия img_8306.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/foto/копия img_8513.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2qcYU6AuVUw5h5Z3oc6iDktxOnU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.editor"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\medical\foto" />
+      <recent name="C:\Users\user\PycharmProjects\medical" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d55ff80-58e3-4218-9f74-d70512741506" name="Changes" comment="" />
+      <created>1734963342976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734963342976</updated>
+    </task>
+    <servers />
+  </component>
+</project>

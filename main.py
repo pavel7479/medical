@@ -1,35 +1,16 @@
-# Пример вызова функции
-import cv2
-from TextAligner import TextAligner
 
-'''
-Определяем и поворачиваем изображения
-'''
-# Путь к изображению
-image_path = "foto/01.jpg"
+from MedicalApp import MedicalApp
+from StreamlitAPI import StreamlitApp
+from TextProcessor import TextProcessor
+from TextRecognizer import TextRecognizer
 
-# Загружаем изображение
-image = cv2.imread(image_path)
 
-if image is None:
-    print("Ошибка: изображение не найдено. Проверьте путь.")
-else:
-    # Печать оригинального изображения
-    print("Оригинальное изображение:")
-    cv2.imshow("Original Image", image)
+def main():
+    """Функция для запуска Streamlit-приложения."""
+    app = MedicalApp()
+    streamlit_app = StreamlitApp(app)  # Убираем app.file_manager
+    streamlit_app.run()
 
-    # Создание экземпляра класса и выравнивание текста
-    aligner = TextAligner()
-    aligned_image = aligner.align_text(image)
-
-    # Печать выровненного изображения
-    print("Выровненное изображение:")
-    cv2.imshow("Aligned Image", aligned_image)
-
-    # Сохранение результата
-    output_path = "pred_foto/aligned_image.jpg"  # Укажите корректный путь
-    cv2.imwrite(output_path, aligned_image)
-    print(f"Результат сохранен по пути: {output_path}")
-
-    cv2.waitKey(0)  # Ожидание клавиши
-    cv2.destroyAllWindows()
+if __name__ == "__main__":
+    main()
+#=============================================================================

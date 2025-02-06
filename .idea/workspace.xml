@@ -4,61 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d55ff80-58e3-4218-9f74-d70512741506" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/medical.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OCR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextAligner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/1a7c7c02-400d-44fc-9249-8170d19f4f7a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/281803eb-fa09-42c6-b104-7f77242b835e.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/2f7e2606-ddd0-41d6-a944-621c93b78e10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/img_5808.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/img_5819.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/img_6320.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/img_6374.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/img_7594.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия 370eef3b-0cb1-4f97-a32c-4648addfb064.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия 41f389b4-a116-4492-ab41-514c2ad0c991.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия 435f240f-c3e6-4e35-95a4-e41455e7b57f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия 4756c4c1-d146-4b0c-9beb-b9a1aa1dc328.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия 4771e015-2417-4047-87e8-67b0712bf68e.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия 5473fc2e-4e2e-4f63-8f5b-fa9d23bf1440.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия 8a79aff4-1243-4a84-b5b8-e03d1416ec34.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия 9ecc63fb-dcf6-457b-bc60-589bb0aa11da.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия aa6d2007-828b-4cbe-a1a9-4f624163cda7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия d94c40a7-7ade-4749-9035-4272478cd79f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия d977f8b2-4519-4f23-aa9d-4abe15acd305.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия ee56e931-f1c8-46a5-85a8-b1fa5948bf2d.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия img_3187.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия img_4980.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия img_5111.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия img_5460.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия img_6186.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия img_6301.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия img_6303.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия img_6304.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия img_6306.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия img_6308.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия img_6310.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия img_6400.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия img_6401.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия img_6402.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия img_6662.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия img_6663.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия img_7244.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия img_7278.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия img_7451.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия img_7663.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия img_8086.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия img_8306.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foto/копия img_8513.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="9d55ff80-58e3-4218-9f74-d70512741506" name="Changes" comment="24.12">
+      <change afterPath="$PROJECT_DIR$/FileLoader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FilePaths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OllamaClient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OllamaInstaller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextRecognizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keywords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/promt.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TextAligner.py" beforeDir="false" afterPath="$PROJECT_DIR$/TextProcessor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foto/копия img_8513.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/foto/img_8513.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +33,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_COMMON_BRANCH" value="master" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="5bd86a9f-4cbf-4c16-9f7e-d721c82533c1" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -84,20 +52,102 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.MedicalApp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.script.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;28/01&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/PycharmProjects/medical&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\medical" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\PycharmProjects\medical\foto" />
       <recent name="C:\Users\user\PycharmProjects\medical" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="MedicalApp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="medical" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MedicalApp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="medical" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="medical" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.MedicalApp" />
+        <item itemvalue="Python.script" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -115,6 +165,42 @@
       <option name="presentableId" value="Default" />
       <updated>1734963342976</updated>
     </task>
+    <task id="LOCAL-00001" summary="24.12">
+      <option name="closed" value="true" />
+      <created>1735051544746</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735051544746</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="24.12" />
+    <option name="LAST_COMMIT_MESSAGE" value="24.12" />
   </component>
 </project>
